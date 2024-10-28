@@ -12,7 +12,6 @@ Dev = pd.DataFrame(
   }
 )
 
-
 # print(Dev)
 # print(Dev.describe())
 # print(Dev["Marks"].max())
