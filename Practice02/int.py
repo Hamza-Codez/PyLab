@@ -67,3 +67,19 @@ print(vari["Catogery"])
 # stu1=pd.DataFrame(stu)
 
 # print(stu1["name"][1])
+
+
+
+
+
+
+
+
+
+# Importing the Pandas library
+# Pandas is an open-source data manipulation and analysis library for Python. 
+# It provides data structures like Series (1D) and DataFrame (2D) that are 
+# highly efficient for handling and analyzing large datasets. With Pandas, 
+# we can perform data cleaning, merging, reshaping, and visualization tasks 
+# seamlessly. It's widely used in data science, machine learning, and data 
+# analysis projects due to its flexibility and powerful functionality.
