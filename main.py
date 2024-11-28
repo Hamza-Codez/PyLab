@@ -1,5 +1,20 @@
+import sklearn as sk
 import pandas as pd
+import matplotlib.pyplot as plt
+from matplotlib import pyplot
 
+
+
+from sklearn.linear_model import LinearRegression
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.tree import DecisionTreeRegressor
+from sklearn.naive_bayes import GaussianNB
+from sklearn.ensemble import RandomForestRegressor
+from sklearn import svm
+from sklearn.metrics import mean_squared_error
+
+x,y = load_
 
 Dev = pd.DataFrame(
   {
@@ -19,4 +34,4 @@ Dev = pd.DataFrame(
 
 # requires data set file to run csv
 
-# //Python treats string as object
+# //Python treats string as obj
