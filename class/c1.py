@@ -77,4 +77,4 @@ print(customData)
 # 9. String Splitting Example
 # =========================
 print("Third word from the name:")
-print(custom_df["name"].str.split(" ").str.get(2))
+print(customData["name"].str.split(" ").str.get(2))
